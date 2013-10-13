@@ -35,8 +35,8 @@ Linked Data Exploration Graph
 
 **From the general to the particular:**
 
-The Adjacent Possible operates on the particularities of where you are. So I will explore some particular situations and their adjacent possibilities (and impossibilities):
+The Adjacent Possible operates on the particularities of where you are. So I will explore some particular situations and their adjacent possibilities (and impossibilities) in the Wiki:
 
-# Sensorica: http://sensorica.co
-# The valuenetwork software project: https://github.com/valnet/valuenetwork
+* [SENSORICA](http://www.sensorica.co/) [Wiki page](https://github.com/bhaugen/linked-data-exploration-graph/wiki/SENSORICA)
+* [The valuenetwork software project](https://github.com/valnet/valuenetwork) [Wiki page](https://github.com/bhaugen/linked-data-exploration-graph/wiki/Value-Network-software-project)
 
