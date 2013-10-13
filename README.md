@@ -32,3 +32,11 @@ Linked Data Exploration Graph
 * Pearltrees: http://www.pearltrees.com/t/exploring-alternatives/id5509379
 
 * Debategraph: http://debategraph.org/Stream.aspx?nid=214100&vt=bubble&dc=focus
+
+**From the general to the particular:**
+
+The Adjacent Possible operates on the particularities of where you are. So I will explore some particular situations and their adjacent possibilities (and impossibilities):
+
+# Sensorica: http://sensorica.co
+# The valuenetwork software project: https://github.com/valnet/valuenetwork
+
